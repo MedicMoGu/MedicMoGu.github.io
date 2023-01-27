@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>随想：2022.07.12</title>
+    <url>/2022/07/12/Think-2022-07-12/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p>整个大三下学期如同做梦般在我的生活中以流星般的速度掠过，我还没有反应过来，就已经带着我所有的东西，上了回家的高速；等我洗完澡坐在电脑前，打开Amazon Prime Video看Manchester By The Sea的时候，我才意识到：</p>
+<p>我的大三结束了。</p>
+<p>准确一点地说，我的大学生活结束了，剩下的两年都在医院里度过。</p>
+<p>如果按计划考研一次就能成功的话，三年专硕的大部分时间也是在医院里拼死拼活。</p>
+<p>不对啊，妈的，这和我在高中想的大学生活不一样啊。</p>
+<p>但我心里很清楚，三年前的那个暑假，在我提交了高考志愿的一霎那，许多事情就已经在冥冥之中被安排好了。</p>
+<p>我还记得当时为求工作稳定，违心地选择了临床医学专业。然而高中三年中，我始终没有学医的念头。当时最想去做的就是翻译，我英语从小到大都没怎么学过，成绩却很好，同时也比较喜欢写东西，因此翻译对我来说有着特别的魔力，我认为它是文化沟通的桥梁之一。在高考结束之后选专业时，我爸知道我喜欢外语，跟我说日语专业不错，但实际上他对任何专业的了解基本都来自于今日头条这样的东西。日语在我19年高考结束的时候许多人就在劝不要进入这个坑，刚才我又查了一下，得到的结论是：除非你家里有矿，或者有日企高管亲戚，否则不要报考这个专业。单纯抱着语言专业只能让自己的职场竞争力变得很低，必须要会别的专业技能在社会上立足。</p>
+<p>说回翻译专业，在我高考结束后一直在查询这方面的前景信息，最终还是放弃了。当时我的想法很单纯：随着互联网和AI的发展，等我大学甚至研究生毕业，翻译这个行业会不会被它们“消灭”？</p>
+<p>当时的想法以目前的眼光来看其实十分可笑，至少翻译行业还活得好好的，作为医学生可是要苦很多年。</p>
+<p>当时的第二个选择就是入职互联网或游戏行业。原因很简单，我从小到大都对计算机很有兴趣，游戏更甚。但我当时又瞎嘀咕：我该如何面对中年危机？我是不太想35岁去送外卖的。所以又PASS掉了两个专业。</p>
+<p>追求稳定吗？那就只剩下公务员、老师、医生了。</p>
+<p>我选择了医生，因为当初别人跟我说医生工资比他俩高一点。</p>
+<p>我真傻。</p>
+<p>家里人包括许多亲戚知道我学医后是十分开心的，尤其当我拿到临床医学专业录取通知书的时候。</p>
+<p>三年前的智障想法，基本确定了我之后的人生轨迹。至于转行？很难的啦。</p>
+<p>我爸劝我，以后当了医生，都是别人求你，找你来看病的。他始终认为：医生是普通老百姓跨越到中产阶级的最好途径，没有之一。</p>
+<p>成为中产？我不知道，也许吧。</p>
+<p>在这场疫情所造成的漩涡中，看着许多行业的跌宕起伏，回想着当初的点点滴滴。心里其实还是有些庆幸，因为只要努力，将来就有一份稳定的工作，我不再奢求什么了，能让我吃上饭就可以了。</p>
+]]></content>
+      <tags>
+        <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>You-get安装方法及使用教程</title>
+    <url>/2021/04/15/How-to-install-and-use-You-get/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<p><img src="https://raw.githubusercontent.com/AlexFelix1013/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/photo-1521302200778-33500795e128.jpg#vwid=1000&vhei=667"></p>
+<h3 id="You-get说明"><a href="#You-get说明" class="headerlink" title="You-get说明"></a>You-get说明</h3><p>Q:什么是You-get？我们能用它来做什么？</p>
+<p>A:You-get 是一个使用 python 开发的开源视频下载工具，有了它你就可以很轻松地爬取网页上的媒体信息。目前You-get支持的网站极多，国内外常见的YouTube、Twitter、Instagram、TED、B站、优酷、爱奇艺等等均在You-get的范围之内。<br><a href="https://you-get.org/">官方网站</a> | <a href="https://github.com/soimort/you-get">项目地址</a> | <a href="https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E">中文说明</a> | <a href="https://github.com/soimort/you-get/wiki/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E#%E6%94%AF%E6%8C%81%E7%BD%91%E7%AB%99">支持网站</a></p>
+<hr>
+<p>You-get的运行需要两个软件的支持：Python与ffmpeg。所以为了You-get的正常使用，你需要安装这两个软件。</p>
+<hr>
+<h3 id="第一步：安装Python"><a href="#第一步：安装Python" class="headerlink" title="第一步：安装Python"></a>第一步：安装Python</h3><p>访问<a href="https://www.python.org/">Python的官方网站</a>，下载最新的Python，当前（2021.04.15）最新版本为3.9.4。</p>
+<p>安装Python时注意要勾选<strong>Add Python to PATH</strong>，这个是添加环境变量，然后点击Install Now就可以了。</p>
+<p>打开命令提示符（CMD），输入<code>python -V</code>，如果出现Python的版本信息，那就说明安装成功了。</p>
+<p>Python的更新代码：<code>python.exe -m pip install --upgrade pip</code></p>
+<h3 id="第二步：安装ffmpeg"><a href="#第二步：安装ffmpeg" class="headerlink" title="第二步：安装ffmpeg"></a>第二步：安装ffmpeg</h3><blockquote>
+<p>FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。采用LGPL或GPL许可证。它提供了录制、转换以及流化音视频的完整解决方案</p>
+</blockquote>
+<p>1.下载ffmpeg：</p>
+<p>首先进入ffmpeg的官方网站的下载页：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-05-35.png#vwid=802&vhei=541"></p>
+<p>2.点击下载链接，我用的是GitHub：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-15-33.png#vwid=793&vhei=532"></p>
+<p>我不太清楚各版本之间都有什么区别，我下的是最大的那一个。</p>
+<p>3.下载解压后，将你想安装的地方新建一个文件夹为ffmpeg，将你解压出的文件放在这个文件夹里：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-24-02.png#vwid=1544&vhei=893"></p>
+<p>4.配置环境变量：</p>
+<ul>
+<li><p>打开“编辑系统环境变量”：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-25-56.png#vwid=988&vhei=592"></p>
+</li>
+<li><p>在设置里点击环境变量：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-41-27.png#vwid=609&vhei=696"></p>
+</li>
+<li><p>选中下面的Path环境变量，然后编辑：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-45-56.png#vwid=786&vhei=760"></p>
+</li>
+<li><p>新建变量，再将你的ffmpeg目录输入进去，然后一路确定保存就可以了：</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-42-05.png#vwid=670&vhei=660"></p>
+</li>
+</ul>
+<h3 id="第三步：安装You-get"><a href="#第三步：安装You-get" class="headerlink" title="第三步：安装You-get"></a>第三步：安装You-get</h3><p>打开CMD，输入代码：<code>pip3 install you-get</code><br>等到安装完毕后输入代码<code>you-get -V</code>，如果出现You-get的版本信息，则说明安装成功。</p>
+<p><img src="https://raw.githubusercontent.com/medicmogu/image/master/%E6%8A%80%E6%9C%AF/You-get%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/Snipaste_2021-04-15_19-56-00.png#vwid=1223&vhei=639"></p>
+<h3 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h3><blockquote>
+<p>以B站和YouTube某视频为例：</p>
+</blockquote>
+<ul>
+<li>打开CMD，输入<code>you-get https://www.bilibili.com/video/BV1Gv411v7bF</code>，即可开始下载，默认为网页视频的最高画质</li>
+<li>查询出现视频的各种信息，包括清晰度或格式：<code>you-get -i https://www.bilibili.com/video/BV1Gv411v7bF</code></li>
+<li>将视频下载到你想要的文件路径：<code>you-get -o 文件路径 https://www.bilibili.com/video/BV1Gv411v7bF</code></li>
+<li>可以下载整个视频列表中的视频，这个命令我常用于B站下载番剧：<code>you-get --playlist https://www.bilibili.com/bangumi/play/ss36198/?from=search&amp;seid=1458896698736881383</code></li>
+<li>更新You-get：<code>pip3 install --upgrade you-get</code></li>
+<li>使用http代理下载： <code>you-get -x 127.0.0.1:端口 https://www.youtube.com/watch?v=F8MN0o6RS9o</code></li>
+<li>使用socks代理下载：<code>you-get -s 127.0.0.1:端口 https://www.youtube.com/watch?v=F8MN0o6RS9o</code></li>
+<li>顺便一提，使用clash不用http代理代码或socks代理代码。</li>
+<li>PS：堀与宫村B站正在限免。</li>
+<li>再PS：从B站抓取视频过多后，下载速度会变慢，应该是B站做了限制。但这个限制比较玄学，有时候待一会儿就没事了，看运气吧。</li>
+</ul>
+<p>还有什么需要补充的，日后想起来再说。</p>
+]]></content>
+      <tags>
+        <tag>黑科技</tag>
+        <tag>软件教程</tag>
+      </tags>
+  </entry>
+</search>
